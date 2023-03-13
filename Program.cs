@@ -189,6 +189,10 @@ switch (a)
       {
       Console.WriteLine(b);
       }
+      else
+      {
+         Console.WriteLine("askjdbajlsd");
+      }
    }
     }
 }
